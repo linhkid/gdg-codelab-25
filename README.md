@@ -1,6 +1,8 @@
 # gdg-codelab-25
 Collection of my Google Codelabs, Devfest & Build with AI events in 2025
 
+![](img/bwa25.webp)
+
 ## Introduction
 
 This repository contains various projects and code samples from the Google Codelabs, Devfest, and Build with AI events, with the focus about function callings and multi-agents using Google's latest products and technology. The projects are designed to help developers learn and experiment with different technologies and concepts.
