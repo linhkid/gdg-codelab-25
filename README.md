@@ -1,5 +1,5 @@
 # gdg-codelab-25
-Collection of my Google Codelabs, Devfest & Build with AI events in 2025
+Collection of my Google Codelabs, Devfest & Build with AI events in 25-26
 
 ![](img/bwa25.webp)
 
